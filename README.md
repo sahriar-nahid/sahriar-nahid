@@ -47,7 +47,7 @@ I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.
         <td align="center" width="20%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
-        <strong>Champion</strong>
+        <strong>Best Prototype</strong>
         <br />
         <a href="">BCOLBD 2023</a>
         <br />
@@ -56,7 +56,7 @@ I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.
         <td align="center" width="27%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
-        <strong>Champion</strong>
+        <strong>Finalist</strong>
         <br />
         <a href="">BCOLBD 2024</a>
         <br />
@@ -65,7 +65,7 @@ I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.
       <td align="center" width="23%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
-        <strong>Champion</strong>
+        <strong>Award of Merit</strong>
         <br />
         <a href="">IBCOL 2023</a>
         <br />
