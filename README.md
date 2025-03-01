@@ -1,5 +1,14 @@
+<h1 align='center'>👋 Hey Folks! I'm Sahriar Nahid</h1>
+<p align='center'>
+<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
+<a href="https://peerlist.io/vinitshahdeo"><img src="https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist"/></a>
+<a href="https://visitorbadge.io/status?path=vinitshahdeo%2Fvinitshahdeo"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2Fvinitshahdeo&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://github.com/vinitshahdeo?tab=repositories"><img src="https://img.shields.io/github/stars/vinitshahdeo?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://leetcode.com/u/vinitshahdeo/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow"/></a>
+</p>
 
-
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.hu/)** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
