@@ -1,15 +1,28 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=3000&pause=300&width=435&lines=Full-Stack+Developer;Bussiness+Enthusiast" alt="Typing SVG" /></a>
+<div/>
+
+<p align="center"> I'm Nahid, Fullstack developer from <img src="https://github.com/user-attachments/assets/cce8b683-7243-4928-9a3b-ae631fb7d18a" width="14"/> <b>Dhaka, Bangladesh</b>, currently a student pursuing my Bachelor in Computer Science from University of Debrecen. <img src="https://github.com/user-attachments/assets/916ca44a-f678-4039-b96c-80285d174d49" width="13"/> <b>Debrecen, Hungary</b>. </p>
 
 
+<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+<p align=center>
+  <a href="https://github.com/Terabyte17">
+    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Terabyte17?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
 
-### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-
-<p> I'm Nahid, Fullstack developer from <img src="https://github.com/user-attachments/assets/cce8b683-7243-4928-9a3b-ae631fb7d18a" width="14"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://github.com/user-attachments/assets/916ca44a-f678-4039-b96c-80285d174d49" width="13"/> <b>Debrecen, Hungary</b>. </p>
 
 
 <hr>
@@ -26,11 +39,11 @@
 
 ### 🚀 About Me
 
-- 🏢 Currently building [Booked For You](https://bookedforyou.com) as a **Product Engineer**.
-- 🔭 Passionate about **Full Stack Development & Cloud Technologies**
+- 🏢 Currently building [Grey Devs]() as a **CEO**.
+- 🔭 Passionate about **Full Stack Development & Blockchain Technologies**
 - 🌱 Currently exploring **Machine Learning and AI**
-- 👯 Open to collaborate on **SaaS Projects**
-- 📝 I sometimes write articles on [Medium](https://medium.com/@takitajwar17)
+- 👯 Open to collaborate on **Blockchain projects**
+- 📝 I sometimes write articles on [Medium]()
 
 ### 🎯 Current Focus
 
@@ -101,15 +114,56 @@
 </p>
 
 
-Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 
 ### Employer?
 > [!IMPORTANT]  
 > <a href="" download>Download my resume</a>
+### Projects and Dev Stuffs:
 
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+	    <li><b>Laptop: </b> Macbook Air M1</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+#
+
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
