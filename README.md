@@ -49,36 +49,36 @@ I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/imtiazrisat_2025-started-on-a-high-note-my-team-xtradrill-activity-7282052017999532033-iR4M?utm_source=social_share_sheet&utm_medium=member_desktop_web">AI and API Hackathon</a>
+        <a href="">BCOLBD 2023</a>
         <br />
-        <sub>KUET CSE BitFest 2025 (Jan. 2025)</sub>
+        <sub>4th National Blockchain Olympiad (Jan. 2025)</sub>
       </td>
         <td align="center" width="27%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_what-a-month-it-has-been-we-team-xtradrill-activity-7272690375620804608-qwvb?utm_source=share&utm_medium=member_desktop">Data Hackathon</a>
+        <a href="">BCOLBD 2024</a>
         <br />
-        <sub>4th DIU Data Science Summit 2024 (Dec. 2024)</sub>
+        <sub>5th National Blockchain Olympiad (Dec. 2024)</sub>
       </td>
       <td align="center" width="23%">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
         <br />
         <strong>Champion</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_yet-another-win-for-my-team-xtradrill-but-activity-7271506810140790785-wEbl?utm_source=share&utm_medium=member_desktop">Dhaka Divisional Hackathon</a>
+        <a href="">IBCOL 2023</a>
         <br />
-        <sub>Technocrats V.2 (Dec. 2024)</sub>
+        <sub>Amsterdam, Netherlands (Nov. 2024)</sub>
       </td>
       <td align="center" width="30%">
         <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
         <br />
         <strong>1st Runner-Up</strong>
         <br />
-        <a href="https://www.linkedin.com/posts/takitajwar17_the-last-two-days-have-been-nothing-short-activity-7261294019660439552-nxYA?utm_source=share&utm_medium=member_desktop">Programming Hero National Hackathon</a>
+        <a href="">Hult Prize 2024</a>
         <br />
-        <sub>EWU RoboFest (Nov. 2024)</sub>
+        <sub>BDU On-Campus (Sep. 2024)</sub>
       </td>
     </tr>
   </table>
