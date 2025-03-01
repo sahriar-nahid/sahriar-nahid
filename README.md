@@ -9,7 +9,8 @@
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<p> I'm Nahid, Fullstack developer from <img src="https://github.com/user-attachments/assets/cce8b683-7243-4928-9a3b-ae631fb7d18a" width="14"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://github.com/user-attachments/assets/916ca44a-f678-4039-b96c-80285d174d49" width="13"/> <b>Debrecen, Hungary</b>. </p>
+
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -18,11 +19,6 @@
 </p>
 <hr>
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<p> I'm Nahid, Fullstack developer from <img src="https://github.com/user-attachments/assets/cce8b683-7243-4928-9a3b-ae631fb7d18a" width="14"/> <b>Dhaka, Bangladesh</b>, currently living in <img src="https://github.com/user-attachments/assets/916ca44a-f678-4039-b96c-80285d174d49" width="13"/> <b>Debrecen, Hungary</b>. </p>
 
 
 <div style="position: relative;">
@@ -103,6 +99,11 @@ Like My Work?
     <img src="https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,cpp,cs,html,css,bootstrap,androidstudio,blender,ps,notion,docker,c,vim" />
   </a>
 </p>
+
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 
