@@ -108,19 +108,19 @@ I'm a **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb.
 > <a href="" download>Download my resume</a>
 ### Projects and Dev Stuffs:
 
-<details>
+<details open>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahriar-nahid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahriar-nahid&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
 
-<details>
+<details open>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=sahriar-nahid&theme=radical" alt="GitHub Streak" /></a>
 </details>
 
 <details>
